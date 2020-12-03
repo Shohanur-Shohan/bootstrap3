@@ -1,0 +1,26 @@
+body{
+	background-color: black;
+}
+.container{
+	margin-bottom: 15px;
+	padding-top: 10px;
+	overflow: hidden;
+	min-height: 20px;
+	background-color: black; 
+	border: 4px solid red;
+}
+
+
+select,div,input{
+	margin-bottom: 10px;
+}
+h5{
+	color: red;
+	font-size: 30px;
+	font-weight: 700;
+
+}
+p{
+	color: blue;
+	font-size: 25px;
+}
